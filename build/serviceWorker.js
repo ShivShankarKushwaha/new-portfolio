@@ -1,5 +1,5 @@
 const CACHE_NAME = "version-1";
-const urltoCache = ["./","../","index.html", "./offline.html",'../src/App.js','../src/Components/Home.js','../src/App.ts','../src/App.tsx'];
+const urltoCache = ["index.html",'../src/App.js'];
 this.addEventListener("install", (e) =>
 {
   console.log('installing');
