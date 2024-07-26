@@ -1,5 +1,6 @@
-const CACHE_NAME = "shivshankar.vercel.app-version-4.1";
-const urltoCache = ["index.html",'../src/App.js'];
+const CACHE_NAME = "shivshankar.vercel.app-version-4";
+// const urltoCache = ["index.html",'../src/App.js'];
+const urltoCache = [];
 this.addEventListener("install", (e) =>
 {
   console.log('installing');
