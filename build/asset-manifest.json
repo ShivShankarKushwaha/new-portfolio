@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.6de19a20.css",
-    "main.js": "/static/js/main.d243eb7f.js",
+    "main.js": "/static/js/main.6829d7d1.js",
     "static/js/787.02b30a03.chunk.js": "/static/js/787.02b30a03.chunk.js",
     "static/media/collegeleave.webp": "/static/media/collegeleave.85c5af89f80c3169ab6a.webp",
     "static/media/healthtracker.webp": "/static/media/healthtracker.4ce8c74f5d2c1fa79621.webp",
     "static/media/library.webp": "/static/media/library.7aee123942b4b4100738.webp",
     "static/media/BestermindRegular.ttf": "/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
+    "static/media/foodify.png": "/static/media/foodify.c8790f181c3c3fc16f86.png",
     "static/media/contactsImage.svg": "/static/media/contactsImage.8f2a6a0358e99966d46a086ac2da8b61.svg",
     "static/media/puppeteer.png": "/static/media/puppeteer.f3c24928a22036e4eb2d.png",
     "static/media/docker.svg": "/static/media/docker.90a555f90e26e8f9ba57847ace3d647d.svg",
@@ -43,11 +44,11 @@
     "static/media/figma.svg": "/static/media/figma.1cd446080336901b93673164fe5bdcf2.svg",
     "static/media/shell-script.svg": "/static/media/shell-script.25a82c369e4019476b90b1c28c832b9a.svg",
     "main.6de19a20.css.map": "/static/css/main.6de19a20.css.map",
-    "main.d243eb7f.js.map": "/static/js/main.d243eb7f.js.map",
+    "main.6829d7d1.js.map": "/static/js/main.6829d7d1.js.map",
     "787.02b30a03.chunk.js.map": "/static/js/787.02b30a03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6de19a20.css",
-    "static/js/main.d243eb7f.js"
+    "static/js/main.6829d7d1.js"
   ]
 }
